@@ -1,6 +1,12 @@
 // abstracts
+@import "./abstracts/variables.scss";
 
 // Base
+
+// Components
+@import "./components/header.scss";
+@import "./components/topBar.scss";
+@import "./components/menu.scss";
 
 // Layouts
 @import "./layout/basic.scss";

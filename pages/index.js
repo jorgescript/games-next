@@ -1,10 +1,10 @@
-import Basic from "../layouts/basic";
+import BasicLayout from "../layouts/basic/basic.layout";
 
 const Home = () => {
   return (
-    <Basic>
+    <BasicLayout>
       <h1>Estamos en el home</h1>
-    </Basic>
+    </BasicLayout>
   );
 };
 
